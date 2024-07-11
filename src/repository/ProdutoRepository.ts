@@ -1,4 +1,4 @@
-﻿import { Produto } from "../src/Model/Produto";
+﻿import { Produto } from "../Model/Produto";
 
 export interface ProdutoRepository{
 

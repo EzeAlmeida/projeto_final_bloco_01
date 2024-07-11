@@ -6,7 +6,7 @@ const readlinesync = require("readline-sync");
 export class Perecivel extends Produto {
 
     private _perecivel: string;
-
+    
 
     constructor(id: number, nome: string, tipo: number, preco: number, perecivel: string) {
         super(id, nome, tipo, preco)
